@@ -1,6 +1,3 @@
-# editswfiles
-maybe app for Sebs SW CV
-
 # Sebs SW CV .swfiles
 .swfiles is a file format for Sebs SW CV
 # How to get Program
