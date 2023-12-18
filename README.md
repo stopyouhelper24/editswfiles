@@ -7,4 +7,3 @@ Editswfiles will be added to Sebs SW CV as a App
 in Releases
 # V1
 Go to https://scsw-now.tk/edit-swfiles.html
-htgjfgggjfbkkfybfybfjumfhgngyjjfgugjgujruijhngjfijgunghjrungunfujrhngungggnjeg vi
