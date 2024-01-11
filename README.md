@@ -5,5 +5,3 @@ on the 25-10-2022
 Editswfiles will be added to Sebs SW CV as a App
 # Editswfiles as .exe File
 in Releases
-# V1
-Go to https://scsw-now.tk/edit-swfiles.html
